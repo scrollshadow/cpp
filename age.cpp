@@ -7,12 +7,12 @@ string nama;
 
 int main(){ //program utama
     int age; //variable local
-    int age1; //variable local
+    int agel; //variable local
     age = 20;
-    age1 = 15;
+    agel = 15;
     
     cout << "halo gusti" << endl;
     cout << 99 << endl;
-    cout << age;
-    cout << age1;
+    cout << age << endl;
+    cout << agel << endl;
 }
