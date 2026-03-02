@@ -8,7 +8,7 @@ string nama;
 int main(){ //program utama
     int age; //variable local
     int agel; //variable local
-    age = 20;
+    age = 25;
     agel = 15;
     
     cout << "halo gusti" << endl;
